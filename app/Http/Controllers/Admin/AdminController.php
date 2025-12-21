@@ -60,7 +60,7 @@ class AdminController extends Controller
     public function storeTeams(Request $request)
     {
         $data = $request->validate([
-            'image' => 'image|mimes:jpg,png,jpeg,gif,svg|max:2048',
+            'image' => 'image',
             'name' => 'required|string',
             'email' => 'required|email',
             'phone' => 'required|string',
