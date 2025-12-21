@@ -169,7 +169,7 @@
         <div class="team-row">
             @foreach($coreTeam as $key => $member)
             <div class="team-card wow fadeInUp" data-wow-delay="0.{{ $key+1 }}s">
-                <img src="{{ $member->image ? asset('public/uploads/teams/' . $member->image) : asset('default.png') }}"
+                <img src="{{ $member->image ? asset('uploads/teams/' . $member->image) : asset('default.png') }}"
                     alt="{{ $member->name }}" class="team-img">
 
                 <div class="team-content">
@@ -200,7 +200,7 @@
                             <button type="button" class="btn-close ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-                            <img src="{{ $member->image ? asset('public/uploads/teams/' . $member->image) : asset('default.png') }}"
+                            <img src="{{ $member->image ? asset('uploads/teams/' . $member->image) : asset('default.png') }}"
                                 alt="{{ $member->name }}" class="img-fluid rounded-circle mb-3" style="width:150px; height:150px; object-fit:cover;">
                             <h3 class="mb-3">{{ $member->name }}</h3>
                             <p class="team-position">{{ $member->position }}</p>
@@ -223,7 +223,7 @@
         <div class="team-row">
             @foreach($associateTeam as $key => $member)
             <div class="team-card wow fadeInUp" data-wow-delay="0.{{ $key+1 }}s">
-                <img src="{{ $member->image ? asset('public/uploads/teams/' . $member->image) : asset('default.png') }}"
+                <img src="{{ $member->image ? asset('uploads/teams/' . $member->image) : asset('default.png') }}"
                     alt="{{ $member->name }}" class="team-img">
 
                 <div class="team-content">
@@ -254,7 +254,7 @@
                             <button type="button" class="btn-close ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-                            <img src="{{ $member->image ? asset('public/uploads/teams/' . $member->image) : asset('default.png') }}"
+                            <img src="{{ $member->image ? asset('uploads/teams/' . $member->image) : asset('default.png') }}"
                                 alt="{{ $member->name }}" class="img-fluid rounded-circle mb-3" style="width:150px; height:150px; object-fit:cover;">
                             <h3 class="mb-3">{{ $member->name }}</h3>
                             <p class="team-position">{{ $member->position }}</p>
