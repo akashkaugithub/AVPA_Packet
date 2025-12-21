@@ -40,7 +40,7 @@
                         <td>
                             <a href="" data-bs-toggle="modal" data-bs-target="#profile-pic-{{ $user->id }}">
                                 <img class="profile-pic-img"
-                                    src="{{ $user->image ? asset('public/uploads/teams/' . $user->image) : asset('admin/images/dummy-img.svg') }}"
+                                    src="{{ $user->image ? asset('uploads/teams/' . $user->image) : asset('admin/images/dummy-img.svg') }}"
                                     alt="">
                                     
 
