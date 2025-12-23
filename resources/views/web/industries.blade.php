@@ -91,7 +91,7 @@
                 <div class="service-card text-center">
                     <div class="icon">
                         <!-- <i class="fas fa-chart-line fa-2x"></i> -->
-                         <img src="{{ asset('public/' . $industry->image) }}" 
+                         <img src="{{ asset('' . $industry->image) }}" 
                  alt="{{ $industry->name }}" 
                  style="width:80px; height:80px; object-fit:contain;">
                     </div>
