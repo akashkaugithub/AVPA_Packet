@@ -273,7 +273,7 @@
                 <!--                data-bs-target="#nav-mission" type="button" role="tab" aria-controls="nav-mission"-->
                 <!--                aria-selected="false">&nbsp; &nbsp; Expertise &nbsp; &nbsp;</button>-->
                             <!-- <button class="nav-link fw-semi-bold" id="nav-vision-tab" data-bs-toggle="tab"
-                <!--                data-bs-target="#nav-vision" type="button" role="tab" aria-controls="nav-vision"-->
+                              data-bs-target="#nav-vision" type="button" role="tab" aria-controls="nav-vision"-->
                 <!--                aria-selected="false">Vision</button> -->
                 <!--        </div>-->
                 <!--    </nav>-->
@@ -294,7 +294,7 @@
                 <!--                future-ready solutions.</p>-->
                 <!--        </div>-->
                         <!-- <div class="tab-pane fade" id="nav-vision" role="tabpanel" aria-labelledby="nav-vision-tab">
-                <!--            <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet-->
+                            <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet-->
                 <!--                diam et eos labore.</p>-->
                 <!--            <p class="mb-0">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.-->
                 <!--                Clita erat ipsum et lorem et sit</p>-->
@@ -313,7 +313,7 @@
                             </div>
                             <div class="ps-3">
                                 <h4>No Hidden Cost</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                <span>“Transparent pricing, ethical billing, and absolutely no hidden costs guaranteed.”</span>
                             </div>
                             <div class="border-end d-none d-lg-block"></div>
                         </div>
@@ -328,7 +328,7 @@
                             </div>
                             <div class="ps-3">
                                 <h4>Dedicated Team</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                <span>“A Dedicated Team Committed to Excellence, Accuracy, and Client Success.”</span>
                             </div>
                             <div class="border-end d-none d-lg-block"></div>
                         </div>
@@ -343,7 +343,7 @@
                             </div>
                             <div class="ps-3">
                                 <h4>24/7 Available</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                <span>“Available 24/7 via Email and WhatsApp for Seamless Client Support.”</span>
                             </div>
                         </div>
                     </div>
