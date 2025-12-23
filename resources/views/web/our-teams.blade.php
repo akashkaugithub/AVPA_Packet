@@ -51,11 +51,14 @@
 }
 
 .team-img {
-    width: 100%;
-    height: 320px;
+    width: 180px;
+    height: 180px;
     object-fit: cover;
+    border-radius: 50%;
+    margin: 25px auto 0;
     display: block;
 }
+
 
 .team-content {
     padding: 25px;
