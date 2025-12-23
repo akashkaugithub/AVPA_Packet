@@ -155,7 +155,7 @@
                             </div>
                             <div class="ps-3">
                                 <h4>No Hidden Cost</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                <span>“Transparent pricing, ethical billing, and absolutely no hidden costs guaranteed.”</span>
                             </div>
                             <div class="border-end d-none d-lg-block"></div>
                         </div>
@@ -170,7 +170,7 @@
                             </div>
                             <div class="ps-3">
                                 <h4>Dedicated Team</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                <span>“A Dedicated Team Committed to Excellence, Accuracy, and Client Success.”</span>
                             </div>
                             <div class="border-end d-none d-lg-block"></div>
                         </div>
@@ -185,7 +185,7 @@
                             </div>
                             <div class="ps-3">
                                 <h4>24/7 Available</h4>
-                                <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                <span>“Available 24/7 via Email and WhatsApp for Seamless Client Support.”</span>
                             </div>
                         </div>
                     </div>
